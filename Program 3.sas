@@ -1,2 +1,2 @@
-proc Print data=sashelp.baseball (obs=50);
+proc Print data=sashelp.baseball (obs=100);
 run;
